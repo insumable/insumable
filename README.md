@@ -41,8 +41,6 @@ I am a Computer Science student at **National Institute of Technology (NIT), Rou
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <br/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </td>
     <td align="center" width="33%" valign="top">
       <strong>Backend & Databases</strong>
@@ -63,7 +61,6 @@ I am a Computer Science student at **National Institute of Technology (NIT), Rou
       <img src="https://img.shields.io/badge/OAuth2-eb5424?style=flat-square&logo=oauth&logoColor=white" alt="OAuth2" />
       <br/>
       <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
-      <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" alt="AWS EC2" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -75,14 +72,8 @@ I am a Computer Science student at **National Institute of Technology (NIT), Rou
 
 ---
 
-### 📊 GitHub Stats
+### 📊 3D Contribution Calendar
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=insumable&show_icons=true&theme=radical&count_private=true" alt="insumable's GitHub Stats" height="195" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Keep_Coding_and_Keep_Improving-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Quote" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Soham's 3D Contribution Calendar" width="100%" />
 </div>
