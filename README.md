@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=250&section=header&text=Soham%20Patra&fontSize=80&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Soham%20Patra&fontSize=80&animation=fadeIn" width="100%" />
 
   <h3>Backend-Focused Java Developer | Spring Boot | React.js</h3>
 
   <p align="center">
     <a href="mailto:patrasoham2006@gmail.com"><img src="https://img.shields.io/badge/Email-patrasoham2006%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/insumable"><img src="https://img.shields.io/badge/GitHub-insumable-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://leetcode.com/u/insumable/"><img src="https://img.shields.io/badge/LeetCode-insumable-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   </p>
 </div>
 
@@ -13,10 +14,10 @@
 
 ### 💫 About Me
 
-I am a passionate and results-driven Software Developer specializing in building robust, scalable, and secure backend systems using **Java** and **Spring Boot**, while also crafting seamless frontend experiences with **React.js**.
+I am a Computer Science student at **National Institute of Technology (NIT), Rourkela**, and a passionate, results-driven Software Developer specializing in building robust, scalable, and secure backend systems using **Java** and **Spring Boot**, while also crafting seamless frontend experiences with **React.js**.
 
-- 🔭 **I’m currently working on:** Building enterprise-grade microservices and full-stack web applications.
-- 🌱 **I’m currently learning:** Advanced Cloud Native architectures and Kubernetes.
+- 🔭 **I’m currently working on:** Building projects in AI, CNN, and Computer Vision (CV), along with enterprise-grade microservices and full-stack web applications.
+- 🌱 **I’m currently learning:** Spring AI.
 - 💬 **Ask me about:** Java, Spring Framework, RESTful API design, Database Optimization, and React.
 - 📫 **How to reach me:** [patrasoham2006@gmail.com](mailto:patrasoham2006@gmail.com)
 
