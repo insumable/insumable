@@ -14,9 +14,9 @@
 
 ### 💫 About Me
 
-I am a Computer Science student at **National Institute of Technology (NIT), Rourkela**, and a passionate, results-driven Software Developer specializing in building robust, scalable, and secure backend systems using **Java** and **Spring Boot**, while also crafting seamless frontend experiences with **React.js**.
+I am a Computer Science student at **National Institute of Technology (NIT), Rourkela**, and a passionate, results-driven Software Developer specializing in building scalable, and secure backend systems using **Java** and **Spring Boot**, while also writing frontend with **React.js**.
 
-- 🔭 **I’m currently working on:** Building projects in AI, CNN, and Computer Vision (CV), along with enterprise-grade microservices and full-stack web applications.
+- 🔭 **I’m currently working on:** Building projects in AI, CNN, and Computer Vision (CV), along with full-stack web applications.
 - 🌱 **I’m currently learning:** Spring AI.
 - 💬 **Ask me about:** Java, Spring Framework, RESTful API design, Database Optimization, and React.
 - 📫 **How to reach me:** [patrasoham2006@gmail.com](mailto:patrasoham2006@gmail.com)
