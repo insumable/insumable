@@ -76,8 +76,16 @@ I am a Computer Science student at **National Institute of Technology (NIT), Rou
 
 ---
 
-### 📊 3D Contribution Calendar
+### 📊 Daily Contribution Calendar
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Soham's 3D Contribution Calendar" width="100%" />
+  <table width="100%">
+    <tr>
+      <td align="center" bgcolor="#000000">
+        <br/>
+        <img src="https://ghchart.rshah.org/40c463/insumable" alt="Soham's Daily Contribution Calendar" />
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
 </div>
