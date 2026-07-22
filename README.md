@@ -14,7 +14,7 @@
 
 ### 💫 About Me
 
-I am a Computer Science student at **National Institute of Technology (NIT), Rourkela**, and a passionate, results-driven Software Developer specializing in building scalable, and secure backend systems using **Java** and **Spring Boot**, while also writing frontend with **React.js**.
+I am a Computer Science student at **National Institute of Technology (NIT), Rourkela**, and a passionate Software Developer building scalable, and secure backend systems using **Java** and **Spring Boot**, while also writing frontend with **React.js**.
 
 - 🔭 **I’m currently working on:** Building projects in AI, CNN, and Computer Vision (CV), along with full-stack web applications.
 - 🌱 **I’m currently learning:** Spring AI.
@@ -83,7 +83,7 @@ I am a Computer Science student at **National Institute of Technology (NIT), Rou
     <tr>
       <td align="center" bgcolor="#000000">
         <br/>
-        <img src="https://ghchart.rshah.org/40c463/insumable" alt="Soham's Daily Contribution Calendar" />
+        <img src="https://ghchart.rshah.org/40c463/insumable" alt="Daily Contribution Calendar" />
         <br/><br/>
       </td>
     </tr>
